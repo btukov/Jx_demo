@@ -1,6 +1,6 @@
 ingress:
   customHosts:
-    hook: "a2ea-142-112-42-206.ngrok.io"
+    hook: "e1b5-173-179-156-32.ngrok.io"
   # allows you to specify custom hosts
   customHosts:
     # specify your ngrok custom domain here
